@@ -11,6 +11,18 @@ This pipeline adapted from following study: [Paper](https://www.sciencedirect.co
   4. MACS2 is used for calling peaks within ATAC-Seq reads.
   5. ChipSeeker package (R) is incorporated to annotate peaks. 
 
+##### Program Versions:
+  - Star v2.5.3 
+  - Samtools v1.3
+  - Bowtie v1.1.1
+  - Bedtools v2.29.2
+  - Igvtools v2.5.3
+  - r-base v4.0.0
+  - Ucsc-wigToBigWig v377
+  - Macs2 v2.2.7
+  - Homer v4.11.0
+  - Trim-galore v0.6.2
+
 ##### Pipeline Container:
   * Docker: dolphinnext/graybuck2019\_scatacseq\_pipeline:latest
-  * Github: dolphinnext/graybuck2019\_scatacseq\_pipeline
+  * GitHub: dolphinnext/graybuck2019\_scatacseq\_pipeline
