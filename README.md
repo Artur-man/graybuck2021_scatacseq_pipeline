@@ -12,4 +12,5 @@ This pipeline adapted from following study: [Paper](https://www.sciencedirect.co
   5. ChipSeeker package (R) is incorporated to annotate peaks. 
 
 ##### Pipeline Container:
-  * Docker: amanukyan1385/graybuck2019\_scatacseq\_pipeline:latest
+  * Docker: dolphinnext/graybuck2019\_scatacseq\_pipeline:latest
+  * Github: dolphinnext/graybuck2019\_scatacseq\_pipeline
