@@ -1,4 +1,4 @@
-# graybuck2019_scatacseq_pipeline
+# scATAC-seq (Graybuck 2021) Pipeline
 
 This single cell ATAC-seq pipeline includes a set of tools necessary for pre-processing ATAC-Seq libraries prepared as in (Graybuck et. al 2019). 
 
