@@ -1,6 +1,6 @@
 # scATAC-seq (Graybuck 2021) Pipeline
 
-This single cell ATAC-seq pipeline includes a set of tools necessary for pre-processing ATAC-Seq libraries prepared as in (Graybuck et. al 2019). 
+This single cell ATAC-seq pipeline includes a set of tools necessary for pre-processing ATAC-Seq libraries prepared as in (Graybuck et. al 2021). 
 
 This pipeline adapted from following study: [Paper](https://www.sciencedirect.com/science/article/pii/S0896627321001598?via%3Dihub),  [Code](https://github.com/AllenInstitute/graybuck2019analysis/) and [Data](https://assets.nemoarchive.org/dat-7qjdj84)
 
@@ -24,5 +24,5 @@ This pipeline adapted from following study: [Paper](https://www.sciencedirect.co
   - Trim-galore v0.6.2
 
 ##### Pipeline Container:
-  * Docker: dolphinnext/graybuck2019\_scatacseq\_pipeline:latest
-  * GitHub: dolphinnext/graybuck2019\_scatacseq\_pipeline
+  * Docker: dolphinnext/graybuck2021\_scatacseq\_pipeline:latest
+  * GitHub: dolphinnext/graybuck2021\_scatacseq\_pipeline
